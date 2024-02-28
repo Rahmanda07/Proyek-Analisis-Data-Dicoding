@@ -16,7 +16,7 @@ Data yang digunakan berasal dari Kaggle Dataset brazilian-e-commerce, yang dapat
     git clone https://github.com/Rahmanda07/Proyek-Analisis-Data-Dicoding.git
     ```
 
-2. Lakukan Instalasi Kaggle dan Konfigurasi Kaggle API sesuai petunjuk pada dokumentasi Kaggle.
+2. Lakukan Instalasi Kaggle dan Konfigurasi Kaggle API sesuai petunjuk pada dokumentasi Kaggle. Anda dapat mengunjungi [tautan ini](https://github.com/Kaggle/kaggle-api) untuk mendapatkan petunjuk instalasi Kaggle API.
 
 3. Lakukan instalasi library yang diperlukan dengan perintah berikut:
     ```
