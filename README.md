@@ -1,4 +1,8 @@
-# Proyek Data Analytics
+# Project Data Analytics
+Projek ini menggunakan Streamlit sebagai alat untuk membuat visualisasi data yang interaktif dan dinamis. Dengan Streamlit, pengguna dapat dengan mudah menjelajahi dan menganalisis data dari Brazilian E-Commerce melalui antarmuka web yang ramah pengguna.
+![Streamlit Logo](https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png)
+
+## Deskripsi
 
 Repositori ini berisi proyek analisis data terhadap Brazilian E-Commerce yang divisualisasikan secara cloud melalui sebuah website. Tujuannya adalah untuk memberikan insight dan pemahaman mengenai informasi data.
 
