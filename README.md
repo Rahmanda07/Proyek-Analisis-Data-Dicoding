@@ -13,7 +13,7 @@ Data yang digunakan berasal dari Kaggle Dataset brazilian-e-commerce, yang dapat
 ## Instalasi
 1. Clone repository ke komputer lokal Anda menggunakan perintah berikut:
     ```
-    git clone https://github.com/username/repo.git
+    git clone https://github.com/Rahmanda07/Proyek-Analisis-Data-Dicoding.git
     ```
 
 2. Instalasi Kaggle dan konfigurasi Kaggle diperlukan sebelum menggunakan dataset. Langkah-langkahnya dapat ditemukan di dokumentasi Kaggle.
